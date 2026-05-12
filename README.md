@@ -19,3 +19,6 @@ src/lorawan_sdk	: include LoRaMac-Node stack and example app
 ## note
 in MDK compile option ,need add this define    
 define:REGION_AS923 REGION_AU915  REGION_CN470 REGION_CN779 REGION_EU433  REGION_EU868 REGION_KR920  REGION_IN865 REGION_US915 REGION_RU864   to enable radio
+
+## 版本说明
+此固件为供客户参考的lorawan协议栈移植后的整机固件demo，非AT指令固件源码
